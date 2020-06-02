@@ -1,2 +1,2 @@
-# OpenNMT_K2E
+# Korean-English Machine Translation
 Open NMT Korean to English
